@@ -1,6 +1,6 @@
 ## Let's make the world better!
 
-Hi! I'm an analyst-turned-dev who wants to work towards building a better future through data, maps, and code.
+Hi! I'm an analyst-turned-dev who wants to work towards building a better future through data, maps, and code, and design.
 
 - I’m currently working on a full-stack scheduling and payroll application for my organization.
 - I’m currently learning Python, but want to branch out into lower-level languages and web.
