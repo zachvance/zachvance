@@ -1,6 +1,6 @@
 ## Let's make the world better!
 
-Hi! I'm an analyst-turned-dev who wants to work towards building a better future through data, maps, code, and design.
+Hi! I'm a multidiciplinary analyst-turned-dev who wants to work towards building a better future through code, maps, data, and design.
 
 - I'm currently learning about maze-generation and path-finding algorithms.
 - I’m currently learning Javascript to level up my web-dev and looking to explore other languages to broaden my language familiarity.
